@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ovelv.github.io</id>
     <title>Gridea</title>
-    <updated>2022-01-09T08:05:33.303Z</updated>
+    <updated>2022-01-09T11:53:33.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ovelv.github.io"/>
     <link rel="self" href="https://ovelv.github.io/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://ovelv.github.io/images/avatar.png</logo>
     <icon>https://ovelv.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[如何0编程搭建一个赚钱的网站]]></title>
+        <id>https://ovelv.github.io/post/ru-he-0-bian-cheng-da-jian-yi-ge-zhuan-qian-de-wang-zhan/</id>
+        <link href="https://ovelv.github.io/post/ru-he-0-bian-cheng-da-jian-yi-ge-zhuan-qian-de-wang-zhan/">
+        </link>
+        <updated>2022-01-09T11:51:59.000Z</updated>
+        <content type="html"><![CDATA[<p>作者：欧维</p>
+<p>我的网站：shenmezhidedu.com</p>
+<p>1、服务器<br>
+腾讯云轻量应用服务器</p>
+<p>https://cloud.tencent.com/</p>
+<p>2、域名<br>
+购买+备案</p>
+<p>推荐：腾讯购买或泡米网</p>
+<p>域名解析</p>
+<p>3、Wordpress<br>
+官网：https://cn.wordpress.org/download/</p>
+<p>4、主题<br>
+主题站</p>
+<p>https://www.cinui.com/</p>
+<p>https://www.xintheme.com/</p>
+<p>https://www.npc.ink/</p>
+<p>https://www.nicetheme.cn/</p>
+<p>https://ritheme.com/</p>
+<p>https://www.wpcom.cn/</p>
+<p>5、网站设置<br>
+菜单、内容分类</p>
+<p>TDK</p>
+<p>静态网页</p>
+<p>6、简单方案：Gridea<br>
+https://gridea.dev/</p>
+<p>教程：https://gridea.dev/gridea-start/</p>
+<p>7、变现赚钱<br>
+广告：优量汇、万维广告</p>
+<p>知识星球</p>
+<p>淘宝客</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ovelv.github.io/post/hello-gridea/</id>
